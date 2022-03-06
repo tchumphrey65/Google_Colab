@@ -1,2 +1,2 @@
-# Google_goLAb
+# Google_Colab
 Storing Module work from Google CoLAb
